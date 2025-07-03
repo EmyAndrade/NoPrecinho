@@ -1,0 +1,58 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar {
+    font-size: 18px;
+}
+.col-md-2 h2 {
+    color: green;
+}
+.beb {
+    width: 90px;   
+}
+.doces {
+    width: 100px;
+}
+.sal {
+    width: 80px;
+}
+.eletro {
+    width: 80px;
+}
+.lim {
+    width: 80px;
+}
+.higi {
+    width: 80px;
+}
+.col-md-8 button {
+    background-color: green;
+    border-color: green;
+    color: white;
+    border-radius: 10%;
+}
+.col-md-8 button:hover {
+    background-color: rgb(10, 161, 10);
+    color: black;
+}
+.cla:hover {
+    background-color: rgb(172, 235, 172);
+    border-color: green;
+    color: black;
+    border-radius: 10%;
+    transform: scale(1.1);
+    transition: linear .2s;
+}
+.cla {
+    width: 10rem; 
+    border-radius: 100%; 
+    padding: 10px 10px 5px;
+}
+.col-md-2 h1 {
+    color: green;
+}
+.caixa {
+    background-color: rgb(172, 235, 172);
+    padding: 20px 20px 20px 20px;
+    border-radius: 30px;
+}
